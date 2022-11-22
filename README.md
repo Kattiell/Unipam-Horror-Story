@@ -2,7 +2,11 @@
 Projeto Segundo Periodo
 
 1 - Instalar a Engine de Games Movels - Renpy
+
+
 Link: https://www.renpy.org/latest.html
+
+
 1.1 - Caso ele venha pedir instalação do Python, recomendo instalarem a versão não importa, visto que a engine suporta todas: https://www.python.org/downloads/
 
 2 - Fazer download do arquivo e mover o arquivo para a pasta do Renpay SDK:
